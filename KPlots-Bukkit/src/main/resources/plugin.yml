@@ -1,0 +1,4 @@
+name: KPlots
+description: This is a Plot system.
+version: 0.0.0
+main: org.kplots.bukkit.KPlots

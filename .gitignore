@@ -1,0 +1,15 @@
+/.gradle/
+/*/build/
+/build/
+/KPlots-Bukkit/run/
+
+### IntelliJ IDEA ###
+/.idea/shelf/
+/.idea/workspace.xml
+/.idea/modules.xml
+/.idea/jarRepositories.xml
+/.idea/compiler.xml
+/.idea/libraries/
+*.iws
+*.iml
+*.ipr
