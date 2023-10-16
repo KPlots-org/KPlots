@@ -1,0 +1,22 @@
+root = true
+
+[*]
+### General ###
+end_of_line = lf
+charset = utf-8
+
+### Indentation ###
+indent_style = space
+indent_size = 4
+
+### Lines ###
+insert_final_newline = true
+max_line_length = 120
+
+### IntelliJ ###
+ij_continuation_indent_size = 8
+# We always enforce the style
+ij_formatter_tags_enabled = false
+ij_smart_tabs = false
+ij_visual_guides = none
+ij_wrap_on_typing = false
